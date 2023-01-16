@@ -7,6 +7,7 @@ There are two type of mode:
 You can run this project on : https://replit.com/@pavitrachavda97/Snake-and-Ladder#sal.java
 
 To run this project follow steps:
-   1. Write "javac sal.java" then press enter
-   2. Write "java sal" then press enter
-   3. Ready to play..
+   1. Click on "Run"
+   2. Write "javac sal.java" then press enter
+   3. Write "java sal" then press enter
+   4. Ready to play..
