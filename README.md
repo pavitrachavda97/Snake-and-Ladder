@@ -8,5 +8,5 @@ You can run this project on : https://replit.com/@pavitrachavda97/Snake-and-Ladd
 
 To run this project follow steps:
    1. Write "javac sal.java" then press enter
-   2. Write "java sal.java" then press enter
+   2. Write "java sal" then press enter
    3. Ready to play..
